@@ -2,28 +2,27 @@
 
 ###
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=izhanlaraagarcia" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=true&username=izhanlaraagarcia" height="150" alt="languages graph"  />
-</div>
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izhanlaraagarcia&label=Profile%20views&color=0e75b6&style=flat" alt="izhanlaraagarcia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izhanlaraagarcia" alt="izhanlaraagarcia" /></a> </p>
-
-
 - 🌱 I’m currently learning **FP Superior DAW**
 
 <!-- - 👨‍💻 All of my projects are available at me [website](izhanlaraagarcia.github.io)-->
 
 - 📫 How to reach me **izhanlaragaracia@gmail.com**
 
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=izhanlaraagarcia" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=true&username=izhanlaraagarcia" height="150" alt="languages graph"  />
+</div>
+-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izhanlaraagarcia" alt="izhanlaraagarcia" /></a> </p>
+
+
+
 ###
 ![GitHub metrics](https://metrics.lecoq.io/izhanlaraagarcia)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izhanl8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izhanlaraagarcia)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhanlaraagarcia&show_icons=true&locale=en" alt="izhanlaraagarcia" /></p>
 
@@ -96,15 +95,5 @@
 
 <!-- <img src="https://raw.githubusercontent.com/izhanlaraagarcia/izhanlaraagarcia/blob/output/snake.svg" alt="Snake animation" /> -->
 
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/izhanlaraagarcia/count.svg?"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/b0/82/c3/b082c355d6f871db29ff0871d4242abd.gif"  />
 
 ###

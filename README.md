@@ -70,10 +70,6 @@
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/d7/60/a8/d760a8f580e350a52fd0d150049b858e.gif"  />
-
-###
-
 <div align="center">
   <a href="izhan.l8#3645" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
@@ -92,8 +88,3 @@
 ###
 
 <br clear="both">
-
-<!-- <img src="https://raw.githubusercontent.com/izhanlaraagarcia/izhanlaraagarcia/blob/output/snake.svg" alt="Snake animation" /> -->
-
-
-###

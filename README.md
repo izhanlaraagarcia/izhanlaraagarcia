@@ -87,8 +87,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhanlaraagarcia&" alt="izhanlaraagarcia" /></p>
 
-
-
+<h3>Other Things</h3>
+![](https://www.codewars.com/users/izhanlaragarcia/badges/small)
 
 ###
 

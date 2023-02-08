@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋! My name is Izhan Lara Garcia</h2>
 
 ###
+<img src = "https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" align="center"/>
 
 - 🌱 I’m currently learning **FP Superior DAW**
 
@@ -88,7 +89,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhanlaraagarcia&" alt="izhanlaraagarcia" /></p>
 
 <h3>Other Things</h3>
+
+![](https://www.codewars.com/users/izhanlaraagarcia/badges/small)
+
 ![](https://www.codewars.com/users/izhanlaragarcia/badges/small)
+
 
 ###
 

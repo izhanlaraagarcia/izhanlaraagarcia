@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at me [website](izhanlaraagarcia.github.io)-->
 
-- 📫 How to reach me **izhanlaragaracia@gmail.com**
+- 📫 How to reach me **izhanlaragaracia@gmail.com** or **ilaragarcia@alumnoifp.es**
 
 ###
 

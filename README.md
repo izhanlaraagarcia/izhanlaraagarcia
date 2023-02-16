@@ -1,7 +1,9 @@
 <h2 align="center">Hi 👋! My name is Izhan Lara Garcia</h2>
 
 ###
-<img src = "https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" align="center"/>
+<p align="center">
+<img src = "https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="60%" />
+ <p/>
 
 - 🌱 I’m currently learning **FP Superior DAW**
 
@@ -26,7 +28,7 @@
 ###
 
 
-<h3>Top Llanguages</h3>
+<h3>Skills</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -90,6 +92,8 @@
 ![](https://www.codewars.com/users/izhanlaraagarcia/badges/small)
 
 ![](https://www.codewars.com/users/izhanlaragarcia/badges/small)
+
+
 
 
 ###

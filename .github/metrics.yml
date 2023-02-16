@@ -11,7 +11,7 @@ jobs:
 
       - name: 🦑 Medias
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: izhanlaraagarcia/metrics@latest
         with:
           filename: medias.svg
           token: ${{ secrets.TOKEN }}
@@ -30,7 +30,7 @@ jobs:
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: izhanlaraagarcia/metrics@latest
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
@@ -43,7 +43,7 @@ jobs:
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: izhanlaraagarcia/metrics@latest
         with:
           filename: sponsors.svg
           token: ${{ secrets.TOKEN }}
@@ -57,7 +57,7 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: izhanlaraagarcia/metrics@latest
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
@@ -80,7 +80,7 @@ jobs:
           plugin_discussions: yes
           
       - name: 🦑 Splatoon
-        uses: lowlighter/metrics@latest
+        uses: izhanlaraagarcia/metrics@latest
         if: ${{ success() || failure() }}
         with:
           filename: splatoon.svg

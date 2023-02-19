@@ -84,7 +84,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhanlaraagarcia&show_icons=true&locale=en" alt="izhanlaraagarcia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhanlaraagarcia&" alt="izhanlaraagarcia" /></p>
-<details> 
+<details>
+ 
  <summary> <h3> 👀 Other Things </h3> </summary>
  
  > My CodeWars

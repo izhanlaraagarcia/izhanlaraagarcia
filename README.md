@@ -85,9 +85,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhanlaraagarcia&show_icons=true&locale=en" alt="izhanlaraagarcia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhanlaraagarcia&" alt="izhanlaraagarcia" /></p>
+
+
+
+
+
 <details>
  
- <summary> <h3> 👀 Other Things </h3> </summary>
+<summary> <h3> 👀 Other Things </h3> </summary>
  
  ![](https://komarev.com/ghpvc/?username=izhanlaraagarcia&color=blueviolet)
  
@@ -101,6 +106,13 @@
  <img src="https://cdn3.emoji.gg/emojis/4044-instagram-logo.png" width="42" />
  </a>
 </details>
+
+##
+
+<p align="center">
+<img src = "https://github.com/izhanlaraagarcia/izhanlaraagarcia/blob/main/IMG/Banner%20LinkedIn%20%20Rascacielos%20de%20noche%20Azul.png"/>
+ <p/>
+
 
 ###
 

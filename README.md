@@ -2,6 +2,7 @@
 
 > **``` Junior Developer / Help Desk IT ```**
 
+
 ###
 <!-- <p align="center">
 <img src = "https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="60%" />
@@ -87,6 +88,8 @@
 <details>
  
  <summary> <h3> 👀 Other Things </h3> </summary>
+ 
+ ![](https://komarev.com/ghpvc/?username=izhanlaraagarcia&color=blueviolet)
  
  > My CodeWars
  

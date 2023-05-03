@@ -108,13 +108,10 @@
  </a>
 </details>
 
-##
+###
 
 <p align="center">
-<img src = "https://github.com/izhanlaraagarcia/izhanlaraagarcia/blob/main/IMG/Banner%20LinkedIn%20%20Rascacielos%20de%20noche%20Azul.png"/>
- <p/>
-
-
-###
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 <br clear="both">

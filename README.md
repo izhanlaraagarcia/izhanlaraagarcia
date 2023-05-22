@@ -2,7 +2,6 @@
 
 > **``` Junior Developer / Help Desk IT ```**
 
-
 ###
 <!-- <p align="center">
 <img src = "https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="60%" />
@@ -77,8 +76,7 @@
 
 
 ###
-![GitHub metrics](https://metrics.lecoq.io/izhanlaraagarcia)
-
+<td width="2000"><img src="https://github-trophies.vercel.app/?username=izhanlaraagarcia&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izhanlaraagarcia)](https://github.com/anuraghazra/github-readme-stats)

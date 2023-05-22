@@ -88,27 +88,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhanlaraagarcia&" alt="izhanlaraagarcia" /></p>
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8j4rwqfh0aarz6844vtbb5hq0&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=9621e4&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=8j4rwqfh0aarz6844vtbb5hq0&redirect=true)
 
-
-
-<details>
- 
-<summary> <h3> 👀 Other Things </h3> </summary>
- 
- ![](https://komarev.com/ghpvc/?username=izhanlaraagarcia&color=blueviolet)
- 
- > My CodeWars
- 
-![](https://www.codewars.com/users/izhanlaraagarcia/badges/small)
- 
- > My Instagram
- 
-<a href="https://www.instagram.com/izhan.rider/">
- <img src="https://cdn3.emoji.gg/emojis/4044-instagram-logo.png" width="42" />
- </a>
-</details>
-
-###
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />

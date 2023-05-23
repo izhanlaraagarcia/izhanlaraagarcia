@@ -38,7 +38,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=izhanlaraagarcia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up."></p>
 </div>
 
 

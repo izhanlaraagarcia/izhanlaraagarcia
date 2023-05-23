@@ -8,8 +8,7 @@
 
 ###
 
-> Hello everyone! My name is **izhan Lara García** and I am _20_ years old, I am currently working as an **Help Desk - Applications Support
-** and I am studying a **higher level FP in Web > "Application Development" (DAW)**. I started in the world of programming in the pandemic (2020), programming discord bots and the truth is that I loved it. I started > the studies that I am currently studying in 2021 but for work I had to leave it, but since it is what I like, I have signed up again this year (2023).
+> Hello everyone! My name is **izhan Lara García** and I am _20_ years old, I am currently working as an **Help Desk - Applications Support** and I am studying a **higher level FP in Web > "Application Development" (DAW)**. I started in the world of programming in the pandemic (2020), programming discord bots and the truth is that I loved it. I started > the studies that I am currently studying in 2021 but for work I had to leave it, but since it is what I like, I have signed up again this year (2023).
 > For anything, do not hesitate to contact me by mail at **_izhanlaragarcia@gmail.com_** or **_ilaragarcia@alumneifp.es_**. I created my own website with **<a href="https://glitch.com/">glitch</a>**, but  it's outdated, I'm supposed to create a new and better one with the experience I have now, in case you want to take a look at the <a href="https://izhanl8.glitch.me">Website</a>. 
 > Finally, if you want to know more about my work experience, visit my <a href="https://www.linkedin.com/in/izhan-lara-garc%C3%ADa//">Linkedin</a>
 

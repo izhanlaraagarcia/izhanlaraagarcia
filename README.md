@@ -31,25 +31,7 @@
 
 ---
 
-## ⚡ Actividad reciente  
-
-1. 🎉 Abierto PR [#14](https://github.com/izhanlaraagarcia/mi-proyecto/pull/14)
-2. 🐛 Cerrado issue [#3](https://github.com/izhanlaraagarcia/mi-proyecto/issues/3)
-3. ✨ Commit en **izhanlaraagarcia/optiruta**
-4. ⭐ Dado star a **prefire-es/web**
-5. 💬 Comentado en [#27](https://github.com/otro-usuario/proyecto/issues/27)
-
----
-
-## 🌍 Conéctate conmigo  
-<p align="center">
-  <a href="https://izhanlaragarcia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1e3c72?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/izhanlara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 <!-- Footer animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+
 

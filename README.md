@@ -1,12 +1,6 @@
 <!-- Banner animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=¡Hola!%20Soy%20Izhan%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-## 🚀 Sobre mí  
-- 💻 Desarrollador apasionado por **web, backend y proyectos creativos**  
-- 📚 Actualmente aprendiendo **React, PHP y entornos cliente-servidor**  
-- 🎯 Objetivo: crear proyectos útiles, bien documentados y escalables  
-- ⚡ Me gusta la música, la fotografía, los coches y las motos  
-
 ---
 
 ## 🛠️ Tecnologías y herramientas  
@@ -33,5 +27,6 @@
 
 <!-- Footer animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+
 
 

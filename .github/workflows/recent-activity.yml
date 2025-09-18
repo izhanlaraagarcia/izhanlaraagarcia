@@ -1,0 +1,26 @@
+name: 🔄 Actualizar actividad reciente
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Se actualiza cada 30 minutos
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Actualizar actividad
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit y push cambios
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "⚡ Update activity in README"
+          git push
